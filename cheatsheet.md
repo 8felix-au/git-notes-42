@@ -10,3 +10,6 @@ A collection of useful Git commands for daily development work.
 - Check repo status: `git status`
 - Add files to staging area: `git add <filename>` or `git add .`
 - Commit staged changes: `git commit -m "commit message"`
+
+## Branching
+- List branches: `git branch`
