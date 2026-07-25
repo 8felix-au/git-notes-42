@@ -13,3 +13,6 @@ A collection of useful Git commands for daily development work.
 
 ## Branching
 - List branches: `git branch`
+- Create branch: `git branch <name>`
+- Switch branch: `git checkout <name>`
+- Create and switch: `git checkout -b <name>`
