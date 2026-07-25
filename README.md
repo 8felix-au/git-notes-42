@@ -1,0 +1,2 @@
+# git-notes-42
+A comprehensive reference guide for common Git operations.
